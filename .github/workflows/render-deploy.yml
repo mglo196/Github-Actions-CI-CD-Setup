@@ -17,4 +17,4 @@ jobs:
       # Deploy to Render using the Deploy Hook URL
       - name: Trigger Render deployment
         run: |
-          curl -X POST https://api.render.com/deploy/some-deploy-hook-url
+          curl -X POST https://api.render.com/deploy/srv-curnb45ds78s73b4e6mg?key=ELf-VRthW-M
