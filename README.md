@@ -1,6 +1,4 @@
 # Github-Actions-CI-CD-Setup
-# Github-Actions-CI-CD-Setup
-# Github Actions CI CD Setup
 
 ## Table of Contents
 - [Description](#description)
@@ -21,11 +19,6 @@ npm i && npm run build && npm run develop
 To be safely efficient of integrating new code from develop to main branch.
 
 ## Deployed Site: https://github-actions-ci-cd-setup-vvhq.onrender.com
-
-![Deployed Link]
-
-
-
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
